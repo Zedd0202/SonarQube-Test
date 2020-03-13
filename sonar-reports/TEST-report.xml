@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='SonarQubeFinalAppNameUITests.xctest' tests='4' failures='0'>
+  <testsuite name='SonarQubeFinalAppNameTests.SonarQubeFinalAppNameTests' tests='2' failures='0'>
+    <testcase classname='SonarQubeFinalAppNameTests.SonarQubeFinalAppNameTests' name='testExample' time='0.001'/>
+    <testcase classname='SonarQubeFinalAppNameTests.SonarQubeFinalAppNameTests' name='testPerformanceExample' time='0.402'/>
+  </testsuite>
+  <testsuite name='SonarQubeFinalAppNameUITests.SonarQubeFinalAppNameUITests' tests='2' failures='0'>
+    <testcase classname='SonarQubeFinalAppNameUITests.SonarQubeFinalAppNameUITests' name='testExample' time='2.276'/>
+    <testcase classname='SonarQubeFinalAppNameUITests.SonarQubeFinalAppNameUITests' name='testLaunchPerformance' time='20.272'/>
+  </testsuite>
+</testsuites>
